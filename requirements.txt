@@ -1,0 +1,5 @@
+streamlit==1.26.0
+pandas==1.5.3
+numpy==1.23.5
+vaderSentiment==3.3.2
+snscrape==0.4.3.20220106
